@@ -1,1 +1,2 @@
-# Naive-BAyes-Classification-and-Natural-Language-Processing
+# Naive-Bayes-Classification-and-Natural-Language-Processing
+ In this repository I will go throug Nave BAye classification and NLP in details...
